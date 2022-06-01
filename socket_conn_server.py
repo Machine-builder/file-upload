@@ -1,4 +1,4 @@
-from connections import ebsocket_event
+from socket_conn import ebsocket_event
 from socket_conn import ebsocket_server
 from socket_conn import ebsocket_system
 from socket_conn import utility as ebsocket_utility
